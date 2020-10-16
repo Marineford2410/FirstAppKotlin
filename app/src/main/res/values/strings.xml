@@ -2,4 +2,12 @@
     <string name="app_name">Happy Birthday</string>
     <string name="happy_birthday_text">Happy Birthday!</string>
     <string name="signature_text">From Emma</string>
+    <string name="cost_of_service">Costo del Servicio</string>
+    <string name="how_was_the_service">¿Como estuvo el servicio?</string>
+    <string name="amazing_service">¡Sorpendente! (20%)</string>
+    <string name="good_service">Bueno (18%)</string>
+    <string name="ok_service">Ok (15%)</string>
+    <string name="round_up_tip">¿Redondear propina?</string>
+    <string name="calculate">Calcular</string>
+    <string name="tip_amount">Cantidad de Propina</string>
 </resources>
